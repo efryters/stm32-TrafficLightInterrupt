@@ -424,7 +424,6 @@ static void prvIntPedestrian(void *p)
 			ped_request = pdTRUE;
 		}
 	}
-
 }
 
 static void prvIntTest(void *p)
